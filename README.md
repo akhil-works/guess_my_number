@@ -4,4 +4,4 @@ It is a small game like project in which we guessing a number within a range pro
 
 DEMO
 -----
-https://akhilkrishnak.github.io/guess_my_number/
+https://akhil-works.github.io/guess_my_number/
